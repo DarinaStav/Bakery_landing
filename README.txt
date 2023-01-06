@@ -1,4 +1,4 @@
-# Practice_Landing_bakery
+#Practice_Landing_bakery
 My first try in big case. Keep learning HTML/CSS. 
 Here I practiced:
 - different CSS properties;
